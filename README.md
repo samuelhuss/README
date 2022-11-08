@@ -15,3 +15,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelhuss&show_icons=true&theme=dark&locale=en&layout=compact" alt="samuelhuss" /></p>
 
+![Snake animation](https://github.com/eloise-takami/eloise-takami/blob/output/github-contribution-grid-snake.svg)
+
